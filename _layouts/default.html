@@ -21,7 +21,7 @@
    <![endif]-->
 </head>
 <body style="display: flex; flex-direction: column; height: 100vh; margin: 0;">
-   <div class="wrapper" style="flex: 1 0 auto; margin-left: 50px; padding-left: 50px;">
+   <div class="wrapper" style="flex: 1 0 auto; margin-left: 20px; padding-left: 20px; display: flex; flex-direction: column;">
       <header style="margin-left: 20px;">
          <h1><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          {% if site.logo %}
@@ -41,7 +41,7 @@
          </ul>
          {% endif %}
       </header>
-      <section style="flex: 1 1 auto; margin-left: 20px;">
+      <section style="flex: 1 1 auto; width: 100%;">
          {{ content }}
       </section>
       <footer style="margin-left: 20px; flex-shrink: 0;">
