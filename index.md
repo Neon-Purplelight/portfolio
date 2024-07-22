@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### A free and open sample dashboard that focuses on the impacts of climate change on our environment
 
 [klima_kompass_navigator]([/sample_page](https://github.com/Neon-Purplelight/klima_kompass_navigator))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
