@@ -30,18 +30,33 @@
          display: flex;
          flex-direction: column;
          flex: 1 0 auto;
-         padding: 0 20px;
+         padding: 20px;
+         box-sizing: border-box;
       }
       header, footer {
          margin: 0;
+         padding: 10px 0;
       }
       section {
          flex: 1 1 auto;
-         margin: 0;
+         margin: 20px 0;
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: space-between;
+      }
+      .content-item {
+         flex: 1 1 45%;
+         box-sizing: border-box;
+         margin: 10px;
       }
       .downloads {
          padding-left: 0;
          list-style-type: none;
+      }
+      @media (max-width: 768px) {
+         .content-item {
+            flex: 1 1 100%;
+         }
       }
    </style>
 </head>
@@ -67,7 +82,14 @@
          {% endif %}
       </header>
       <section>
-         {{ content }}
+         <div class="content-item">
+            <img src="/mnt/data/grafik.png" alt="Grafik 1" />
+            <p>Beschreibung zu Grafik 1</p>
+         </div>
+         <div class="content-item">
+            <img src="/mnt/data/grafik.png" alt="Grafik 2" />
+            <p>Beschreibung zu Grafik 2</p>
+         </div>
       </section>
       <footer>
       </footer>
