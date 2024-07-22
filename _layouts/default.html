@@ -7,7 +7,6 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      
       gtag('config', '{{ site.google_analytics }}');
    </script>
    {% endif %}
@@ -19,10 +18,36 @@
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
+   <style>
+      body {
+         display: flex;
+         flex-direction: column;
+         height: 100vh;
+         margin: 0;
+         padding: 0;
+      }
+      .wrapper {
+         display: flex;
+         flex-direction: column;
+         flex: 1 0 auto;
+         padding: 0 20px;
+      }
+      header, footer {
+         margin: 0;
+      }
+      section {
+         flex: 1 1 auto;
+         margin: 0;
+      }
+      .downloads {
+         padding-left: 0;
+         list-style-type: none;
+      }
+   </style>
 </head>
-<body style="display: flex; flex-direction: column; height: 100vh; margin: 0;">
-   <div class="wrapper" style="flex: 1 0 auto; margin-left: 20px; padding-left: 20px;">
-      <header style="margin-left: 20px;">
+<body>
+   <div class="wrapper">
+      <header>
          <h1><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          {% if site.logo %}
          <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -35,16 +60,16 @@
          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
          {% endif %}
          {% if site.show_downloads %}
-         <ul class="downloads" style="margin-left: 20px;">
+         <ul class="downloads">
             <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
             <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
          </ul>
          {% endif %}
       </header>
-      <section style="flex: 1 1 auto; margin-left: 20px;">
+      <section>
          {{ content }}
       </section>
-      <footer style="margin-left: 20px; flex-shrink: 0;">
+      <footer>
       </footer>
    </div>
    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
