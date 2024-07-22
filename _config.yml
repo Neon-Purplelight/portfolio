@@ -2,10 +2,11 @@ title: Tim Sahre # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Environmental Informatics | Bridging Technology & Ecology for Better Futures  
-  <a href="https://www.linkedin.com/in/timsahre/">View My LinkedIn Profile</a> 
   <br><br>
   Lorem ipsum dolor sit amet, consectetur adipisici elit, …
   <br><br>
+  <a href="https://www.linkedin.com/in/timsahre/">View My LinkedIn Profile</a> 
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
