@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[klima_kompass_navigator]([/sample_page](https://github.com/Neon-Purplelight/klima_kompass_navigator))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
