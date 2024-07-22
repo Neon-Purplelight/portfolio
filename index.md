@@ -8,7 +8,7 @@
 <img src="images/kkn_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](https://github.com/Neon-Purplelight/portfolio/blob/master/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
