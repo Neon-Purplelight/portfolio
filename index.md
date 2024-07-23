@@ -57,7 +57,7 @@ The project examined to what extent training data could be semi-automatically ge
 ---
 ### LKA Stuff
 
-<img src="images\cnn_training_data_thumbnail.jpg"/>
+<img src=""/>
 
 Lorem Ipsum
 
