@@ -9,7 +9,15 @@ The project explores the potential of interactive dashboards to convey the compl
 
 [View Code on GitHub](https://github.com/Neon-Purplelight/klima_kompass_navigator)
 
-[![](https://img.shields.io/badge/Python-green?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-green?logo=Jupyter)](#) [![](https://img.shields.io/badge/Flask-green?logo=Flask)](#) [![](https://img.shields.io/badge/NumPy-green?logo=NumPy)](#) [![](https://img.shields.io/badge/Pandas-green?logo=Pandas)](#) [![](https://img.shields.io/badge/Shapely-green?logo=Shapely)](#) [![](https://img.shields.io/badge/GitHub-green?logo=GitHub)](#) [![](https://img.shields.io/badge/Dash-green?logo=Dash)](#) [![](https://img.shields.io/badge/Anaconda-green?logo=Anaconda)](#) [![](https://img.shields.io/badge/CSS-green?logo=CSS3)](#) [![](https://img.shields.io/badge/HTML-green?logo=HTML5)](#)
+[![](https://img.shields.io/badge/Python-green?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter-green?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/Flask-green?logo=Flask)](#) 
+[![](https://img.shields.io/badge/NumPy-green?logo=NumPy)](#) 
+[![](https://img.shields.io/badge/Pandas-green?logo=Pandas)](#) 
+[![](https://img.shields.io/badge/Shapely-green?logo=Shapely)](#) 
+[![](https://img.shields.io/badge/GitHub-green?logo=GitHub)](#) [![](https://img.shields.io/badge/Dash-green?logo=Dash)](#) [![](https://img.shields.io/badge/Anaconda-green?logo=Anaconda)](#) 
+[![](https://img.shields.io/badge/CSS-green?logo=CSS3)](#) 
+[![](https://img.shields.io/badge/HTML-green?logo=HTML5)](#)
 
 
 ---
@@ -19,7 +27,7 @@ The project explores the potential of interactive dashboards to convey the compl
 
 The aim of the project was the development of an automated, non-destructive measurement system for detecting reinforcement steel corrosion. An established method for detecting corrosion probabilities is the quasi-non-destructive method of potential field measurement. As a previously little-researched, completely non-destructive variant of potential field measurement, this work focuses on differential potential field measurement. The differential potential field measurement is a probabilistic approach, whose significance can be increased by combining various measurement systems. Therefore, systems for recording the electrolytic concrete resistance and the concrete cover were also included in the work as important parameters regarding the interpretation of differential potential field measurements.
 
-[Read pdf](https://github.com/Neon-Purplelight/klima_kompass_navigator)
+[Read pdf](pdf/EMBBBPM.pdf)
 
 [![](https://img.shields.io/badge/Python-green?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-green?logo=Jupyter)](#) [![](https://img.shields.io/badge/Flask-green?logo=Flask)](#) [![](https://img.shields.io/badge/NumPy-green?logo=NumPy)](#) [![](https://img.shields.io/badge/Pandas-green?logo=Pandas)](#) [![](https://img.shields.io/badge/Shapely-green?logo=Shapely)](#) [![](https://img.shields.io/badge/GitHub-green?logo=GitHub)](#) [![](https://img.shields.io/badge/Dash-green?logo=Dash)](#) [![](https://img.shields.io/badge/Anaconda-green?logo=Anaconda)](#) [![](https://img.shields.io/badge/CSS-green?logo=CSS3)](#) [![](https://img.shields.io/badge/HTML-green?logo=HTML5)](#)
 
