@@ -8,9 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   My projects ranged from environmental chemistry to ecology, integrating theoretical knowledge with practical applications essential for modern environmental challenges.
   <br><br>
   <a href="https://www.linkedin.com/in/timsahre/">View My LinkedIn Profile</a> 
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
