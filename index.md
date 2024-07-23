@@ -9,7 +9,7 @@ The project explores the potential of interactive dashboards to convey the compl
 
 [View Code on GitHub](https://github.com/Neon-Purplelight/klima_kompass_navigator)
 
-[![](https://img.shields.io/badge/Python-green?logo=Python)](#)  
+[![](https://img.shields.io/badge/Python-green?logo=Python)](#)
 [![](https://img.shields.io/badge/Flask-green?logo=Flask)](#) 
 [![](https://img.shields.io/badge/NumPy-green?logo=NumPy)](#) 
 [![](https://img.shields.io/badge/Pandas-green?logo=Pandas)](#) 
@@ -47,13 +47,6 @@ The project examined to what extent training data could be semi-automatically ge
 [View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 [View code on Colab](https://colab.research.google.com/drive/1t5nw2X8hn6tLwsCVi58pjW2TwznfbWXj#scrollTo=aQnoc3FkhJc3)
 
-
-TensorFlow
-Keras 
-GDAL 
-QGIS 
-ArcGIS 
-
 [![](https://img.shields.io/badge/Jupyter-green?logo=Jupyter)](#)
 [![](https://img.shields.io/badge/TensorFlow-green?logo=TensorFlow)](#)
 [![](https://img.shields.io/badge/Keras-green?logo=Keras)](#)
@@ -61,7 +54,19 @@ ArcGIS
 [![](https://img.shields.io/badge/QGIS-green?logo=QGIS)](#)
 [![](https://img.shields.io/badge/ArcGIS-green?logo=ArcGIS)](#)
 
+---
+### LKA Stuff
 
+<img src="images\cnn_training_data_thumbnail.jpg"/>
+
+Lorem Ipsum
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
+
+
+---
+---
 
 ## Portfolio
 
