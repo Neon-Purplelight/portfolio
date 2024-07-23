@@ -1,4 +1,4 @@
-## Selected projects in data science, machine learning and NLP
+## Selected projects
 
 ---
 ### A free and open sample dashboard that focuses on the impacts of climate change on our environment
@@ -23,7 +23,7 @@ The project explores the potential of interactive dashboards to convey the compl
 
 
 ---
-### Development of measurement technology for determining concrete cover, electrolytic concrete resistance, and potential field using an autonomous measurement platform.
+### Development of measurement technology for determining concrete cover, electrolytic concrete resistance, and potential field using an autonomous measurement platform
 
 <img src="images/betoscan_thumbnail.jpg?raw=true"/>
 
@@ -39,7 +39,7 @@ The aim of the project was the development of an automated, non-destructive meas
 [![](https://img.shields.io/badge/Git-green?logo=Git)](#) 
 
 ---
-### Development of measurement technology for determining concrete cover, electrolytic concrete resistance, and potential field using an autonomous measurement platform.
+### Automated Generation of Training Datasets for the Classification of Roads in Satellite Data Using a Convolutional Neural Network
 
 <img src="images\cnn_training_data_thumbnail.jpg"/>
 
