@@ -15,7 +15,9 @@ The project explores the potential of interactive dashboards to convey the compl
 [![](https://img.shields.io/badge/NumPy-green?logo=NumPy)](#) 
 [![](https://img.shields.io/badge/Pandas-green?logo=Pandas)](#) 
 [![](https://img.shields.io/badge/Shapely-green?logo=Shapely)](#) 
-[![](https://img.shields.io/badge/GitHub-green?logo=GitHub)](#) [![](https://img.shields.io/badge/Dash-green?logo=Dash)](#) [![](https://img.shields.io/badge/Anaconda-green?logo=Anaconda)](#) 
+[![](https://img.shields.io/badge/GitHub-green?logo=GitHub)](#)
+ [![](https://img.shields.io/badge/Dash-green?logo=Dash)](#)
+[![](https://img.shields.io/badge/Anaconda-green?logo=Anaconda)](#) 
 [![](https://img.shields.io/badge/CSS-green?logo=CSS3)](#) 
 [![](https://img.shields.io/badge/HTML-green?logo=HTML5)](#)
 
@@ -29,20 +31,30 @@ The aim of the project was the development of an automated, non-destructive meas
 
 [Read pdf](pdf/EMBBBPM.pdf)
 
-[![](https://img.shields.io/badge/Python-green?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-green?logo=Jupyter)](#) [![](https://img.shields.io/badge/Flask-green?logo=Flask)](#) [![](https://img.shields.io/badge/NumPy-green?logo=NumPy)](#) [![](https://img.shields.io/badge/Pandas-green?logo=Pandas)](#) [![](https://img.shields.io/badge/Shapely-green?logo=Shapely)](#) [![](https://img.shields.io/badge/GitHub-green?logo=GitHub)](#) [![](https://img.shields.io/badge/Dash-green?logo=Dash)](#) [![](https://img.shields.io/badge/Anaconda-green?logo=Anaconda)](#) [![](https://img.shields.io/badge/CSS-green?logo=CSS3)](#) [![](https://img.shields.io/badge/HTML-green?logo=HTML5)](#)
-
-
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[![](https://img.shields.io/badge/LabVIEW-green?logo=LabVIEW)](#) 
+[![](https://img.shields.io/badge/NI-DAQmx-green?logo=NI-DAQmx)](#) 
+[![](https://img.shields.io/badge/NI-VISA-green?logo=NI-VISA)](#) 
+[![](https://img.shields.io/badge/DAQ-green?logo=DAQ)](#) 
+[![](https://img.shields.io/badge/MATLAB-green?logo=MATLAB)](#) 
+[![](https://img.shields.io/badge/Git-green?logo=Git)](#) 
 
 ---
+### Development of measurement technology for determining concrete cover, electrolytic concrete resistance, and potential field using an autonomous measurement platform.
 
-### Examining panic-buying during the first wave of Covid-19, using mobility data
-The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
+<img src="images/betoscan_thumbnail.jpg?raw=true"/>
 
-<img src="images/mobility.png?raw=true" />
+The aim of the project was the development of an automated, non-destructive measurement system for detecting reinforcement steel corrosion. An established method for detecting corrosion probabilities is the quasi-non-destructive method of potential field measurement. As a previously little-researched, completely non-destructive variant of potential field measurement, this work focuses on differential potential field measurement. The differential potential field measurement is a probabilistic approach, whose significance can be increased by combining various measurement systems. Therefore, systems for recording the electrolytic concrete resistance and the concrete cover were also included in the work as important parameters regarding the interpretation of differential potential field measurements.
 
-View code on Colab
+[Read pdf](pdf/EMBBBPM.pdf)
 
+[![](https://img.shields.io/badge/LabVIEW-green?logo=LabVIEW)](#) 
+[![](https://img.shields.io/badge/NI-DAQmx-green?logo=NI-DAQmx)](#) 
+[![](https://img.shields.io/badge/NI-VISA-green?logo=NI-VISA)](#) 
+[![](https://img.shields.io/badge/DAQ-green?logo=DAQ)](#) 
+[![](https://img.shields.io/badge/MATLAB-green?logo=MATLAB)](#) 
+[![](https://img.shields.io/badge/Git-green?logo=Git)](#) 
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 ## Portfolio
 
 ---
