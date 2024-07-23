@@ -9,8 +9,7 @@ The project explores the potential of interactive dashboards to convey the compl
 
 [View Code on GitHub](https://github.com/Neon-Purplelight/klima_kompass_navigator)
 
-[![](https://img.shields.io/badge/Python-green?logo=Python)](#) 
-[![](https://img.shields.io/badge/Jupyter-green?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/Python-green?logo=Python)](#)  
 [![](https://img.shields.io/badge/Flask-green?logo=Flask)](#) 
 [![](https://img.shields.io/badge/NumPy-green?logo=NumPy)](#) 
 [![](https://img.shields.io/badge/Pandas-green?logo=Pandas)](#) 
@@ -49,12 +48,20 @@ The project examined to what extent training data could be semi-automatically ge
 [View code on Colab](https://colab.research.google.com/drive/1t5nw2X8hn6tLwsCVi58pjW2TwznfbWXj#scrollTo=aQnoc3FkhJc3)
 
 
-[![](https://img.shields.io/badge/LabVIEW-green?logo=LabVIEW)](#) 
-[![](https://img.shields.io/badge/NI-DAQmx-green?logo=NI-DAQmx)](#) 
-[![](https://img.shields.io/badge/NI-VISA-green?logo=NI-VISA)](#) 
-[![](https://img.shields.io/badge/DAQ-green?logo=DAQ)](#) 
-[![](https://img.shields.io/badge/MATLAB-green?logo=MATLAB)](#) 
-[![](https://img.shields.io/badge/Git-green?logo=Git)](#) 
+TensorFlow
+Keras 
+GDAL 
+QGIS 
+ArcGIS 
+
+[![](https://img.shields.io/badge/Jupyter-green?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/TensorFlow-green?logo=TensorFlow)](#)
+[![](https://img.shields.io/badge/Keras-green?logo=Keras)](#)
+[![](https://img.shields.io/badge/GDAL-green?logo=GDAL)](#)
+[![](https://img.shields.io/badge/QGIS-green?logo=QGIS)](#)
+[![](https://img.shields.io/badge/ArcGIS-green?logo=ArcGIS)](#)
+
+
 
 ## Portfolio
 
