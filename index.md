@@ -30,7 +30,7 @@ The project explores the potential of interactive dashboards to convey the compl
 [klima_kompass_navigator](https://github.com/Neon-Purplelight/klima_kompass_navigator)
 <img src="images/kkn_thumbnail.jpg?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Matplotlib-white?logo=matplotlib)](#) [![](https://img.shields.io/badge/Pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/GitHub-black?logo=github)](#) [![](https://img.shields.io/badge/Dash-white?logo=Dash)](#) [![](https://img.shields.io/badge/CSS-white?logo=css)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=Anaconda)](#)
+[![](https://img.shields.io/badge/Python-green?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-green?logo=Jupyter)](#) [![](https://img.shields.io/badge/Matplotlib-green?logo=matplotlib)](#) [![](https://img.shields.io/badge/Pandas-green?logo=Pandas)](#) [![](https://img.shields.io/badge/GitHub-green?logo=GitHub)](#) [![](https://img.shields.io/badge/Dash-green?logo=Dash)](#) [![](https://img.shields.io/badge/Anaconda-green?logo=Anaconda)](#) [![](https://img.shields.io/badge/CSS-green?logo=CSS)](#) [![](https://img.shields.io/badge/CSS-green?logo=HTML)](#)
 ---
 [Project 2 Title](https://github.com/Neon-Purplelight/portfolio/blob/master/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
