@@ -15,8 +15,7 @@ The project explores the potential of interactive dashboards to convey the compl
 [![](https://img.shields.io/badge/Pandas-green?logo=Pandas)](#) 
 [![](https://img.shields.io/badge/Shapely-green?logo=Shapely)](#) 
 [![](https://img.shields.io/badge/GitHub-green?logo=GitHub)](#)
- [![](https://img.shields.io/badge/Dash-green?logo=Dash)](#)
-[![](https://img.shields.io/badge/Anaconda-green?logo=Anaconda)](#) 
+ [![](https://img.shields.io/badge/Dash-green?logo=Dash)](#) 
 [![](https://img.shields.io/badge/CSS-green?logo=CSS3)](#) 
 [![](https://img.shields.io/badge/HTML-green?logo=HTML5)](#)
 
@@ -47,6 +46,7 @@ The project examined to what extent training data could be semi-automatically ge
 [View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 [View code on Colab](https://colab.research.google.com/drive/1t5nw2X8hn6tLwsCVi58pjW2TwznfbWXj#scrollTo=aQnoc3FkhJc3)
 
+[![](https://img.shields.io/badge/Anaconda-green?logo=Anaconda)](#)
 [![](https://img.shields.io/badge/Jupyter-green?logo=Jupyter)](#)
 [![](https://img.shields.io/badge/TensorFlow-green?logo=TensorFlow)](#)
 [![](https://img.shields.io/badge/Keras-green?logo=Keras)](#)
