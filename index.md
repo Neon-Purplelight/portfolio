@@ -41,11 +41,11 @@ The aim of the project was the development of an automated, non-destructive meas
 ---
 ### Development of measurement technology for determining concrete cover, electrolytic concrete resistance, and potential field using an autonomous measurement platform.
 
-<img src="images/betoscan_thumbnail.jpg?raw=true"/>
+<img src="images\cnn_training_data_thumbnail.jpg"/>
 
-The aim of the project was the development of an automated, non-destructive measurement system for detecting reinforcement steel corrosion. An established method for detecting corrosion probabilities is the quasi-non-destructive method of potential field measurement. As a previously little-researched, completely non-destructive variant of potential field measurement, this work focuses on differential potential field measurement. The differential potential field measurement is a probabilistic approach, whose significance can be increased by combining various measurement systems. Therefore, systems for recording the electrolytic concrete resistance and the concrete cover were also included in the work as important parameters regarding the interpretation of differential potential field measurements.
+The project examined to what extent training data could be semi-automatically generated for a CNN and how the benefits of such an approach could be assessed. For this purpose, data products from satellite images as well as external datasets (such as road attributes from OSM datasets) were first generated. Subsequently, the appropriately merged dataset was used to train a CNN for feature detection (such as roads), and an analysis of the results regarding the advantages of a possible combination of satellite data and external data for the generation of training datasets was conducted.
 
-[Read pdf](pdf/EMBBBPM.pdf)
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 [![](https://img.shields.io/badge/LabVIEW-green?logo=LabVIEW)](#) 
 [![](https://img.shields.io/badge/NI-DAQmx-green?logo=NI-DAQmx)](#) 
@@ -54,7 +54,6 @@ The aim of the project was the development of an automated, non-destructive meas
 [![](https://img.shields.io/badge/MATLAB-green?logo=MATLAB)](#) 
 [![](https://img.shields.io/badge/Git-green?logo=Git)](#) 
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 ## Portfolio
 
 ---
