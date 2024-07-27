@@ -73,6 +73,7 @@ The project addresses the impact of exogenous processes and urban components on 
 ## Portfolio
 
 ---
+[NDWI Analysis](ndwi.md)
 
 [Project 2 Title](https://github.com/Neon-Purplelight/portfolio/blob/master/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
