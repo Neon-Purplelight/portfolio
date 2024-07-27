@@ -71,10 +71,11 @@ The project addresses the impact of exogenous processes and urban components on 
 ---
 
 ## Further projects
+---
 
 ### GIS
 
----
 [NDWI Analysis](ndwi.md)
 
 [Multitemporal Analysis](multitemporal_analysis.md)
+---
