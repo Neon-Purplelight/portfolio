@@ -1,31 +1,5 @@
-## This can be your internal website page / project page
+##  The following project realizes a spatial and temporal analysis of water loss from the Aral Sea & Baikal Sea, based on the determination of the normalized digitized water index (NDWI).
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The report "The Aral Sea & Lake Baikal" analyzes the changes in water masses of both lakes using the Normalized Difference Water Index (NDWI). It provides a detailed geographical and historical overview of both lakes, followed by a description of the data and methodology used. The results show significant water loss in the Aral Sea, while Lake Baikal, despite experiencing lesser changes, also faces environmental issues. The report concludes with a discussion on the ecological and socio-economic impacts as well as measures for restoration.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](pdf\Aralsee & Baikalsee_Version I.pdf).
