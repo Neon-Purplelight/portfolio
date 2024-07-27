@@ -54,7 +54,7 @@ The project examined to what extent training data could be semi-automatically ge
 [![](https://img.shields.io/badge/QGIS-green?logo=QGIS)](#)
 
 ---
-### LKA Impact of Exogenous Processes and Urban Structures on Natural Radiation in Berlin: Georeferencing, Data Cleaning, and GIS-based Analysis
+### Impact of Exogenous Processes and Urban Structures on Natural Radiation in Berlin: Georeferencing, Data Cleaning, and GIS-based Analysis
 
 <img src="images\lka_thumbnail.jpg"/>
 
