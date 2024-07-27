@@ -14,7 +14,7 @@ The project explores the potential of interactive dashboards to convey the compl
 [![](https://img.shields.io/badge/NumPy-green?logo=NumPy)](#) 
 [![](https://img.shields.io/badge/Pandas-green?logo=Pandas)](#) 
 [![](https://img.shields.io/badge/Shapely-green?logo=Shapely)](#)
-[![](https://img.shields.io/badge/matplotlib-green?logo=matplotlib)](#) 
+[![](https://img.shields.io/badge/Matplotlib-green?logo=Matplotlib)](#) 
 [![](https://img.shields.io/badge/GitHub-green?logo=GitHub)](#)
  [![](https://img.shields.io/badge/Dash-green?logo=Dash)](#) 
 [![](https://img.shields.io/badge/CSS-green?logo=CSS3)](#) 
