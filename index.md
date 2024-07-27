@@ -27,7 +27,7 @@ The project explores the potential of interactive dashboards to convey the compl
 
 The aim of the project was the development of an automated, non-destructive measurement system for detecting reinforcement steel corrosion. An established method for detecting corrosion probabilities is the quasi-non-destructive method of potential field measurement. As a previously little-researched, completely non-destructive variant of potential field measurement, this work focuses on differential potential field measurement. The differential potential field measurement is a probabilistic approach, whose significance can be increased by combining various measurement systems. Therefore, systems for recording the electrolytic concrete resistance and the concrete cover were also included in the work as important parameters regarding the interpretation of differential potential field measurements.
 
-[Read pdf](pdf/EMBBBPM.pdf)
+[View report](pdf/EMBBBPM.pdf)
 
 [![](https://img.shields.io/badge/LabVIEW-green?logo=LabVIEW)](#) 
 [![](https://img.shields.io/badge/NI-DAQmx-green?logo=NI-DAQmx)](#) 
@@ -83,4 +83,4 @@ The project addresses the impact of exogenous processes and urban components on 
 
 ### Modeling
 
-[4 stage traffic modell](4-stage_traffic_model.md)
+[4 Stage Traffic Modell](4-stage_traffic_model.md)
