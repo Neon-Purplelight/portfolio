@@ -78,6 +78,7 @@ The project addresses the impact of exogenous processes and urban components on 
 [NDWI Analysis](ndwi.md)
 
 [Multitemporal Analysis](multitemporal_analysis.md)
+
 ---
 
 ### Modeling
