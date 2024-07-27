@@ -64,7 +64,6 @@ The project addresses the impact of exogenous processes and urban components on 
 [View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 [![](https://img.shields.io/badge/JavaScript-green?logo=JavaScript)](#)
-[![](https://img.shields.io/badge/SQL-green?logo=SQL)](#)MySQL
 [![](https://img.shields.io/badge/MySQL-green?logo=MySQL)](#)
 [![](https://img.shields.io/badge/R-green?logo=R)](#)
 [![](https://img.shields.io/badge/ArcGIS-green?logo=ArcGIS)](#)
