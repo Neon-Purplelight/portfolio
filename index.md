@@ -44,8 +44,6 @@ The aim of the project was the development of an automated, non-destructive meas
 
 The project examined to what extent training data could be semi-automatically generated for a CNN and how the benefits of such an approach could be assessed. For this purpose, data products from satellite images as well as external datasets (such as road attributes from OSM datasets) were first generated. Subsequently, the appropriately merged dataset was used to train a CNN for feature detection (such as roads), and an analysis of the results regarding the advantages of a possible combination of satellite data and external data for the generation of training datasets was conducted.
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
-[View code on Colab](https://colab.research.google.com/drive/1t5nw2X8hn6tLwsCVi58pjW2TwznfbWXj#scrollTo=aQnoc3FkhJc3)
 [View Notebook](https://colab.research.google.com/drive/1VUIkrF_e26bZ9BAlqVNXw3WNBVVfsP7r)
 
 
