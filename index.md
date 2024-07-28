@@ -61,7 +61,7 @@ The project examined to what extent training data could be semi-automatically ge
 
 The project addresses the impact of exogenous processes and urban components on natural radiation in Berlin. For the analysis, measurement data collected in Berlin were compared with reference data to examine radiation variations within the urban area. The main objective was to georeference, clean, and evaluate the measurement data, as well as to develop an appropriate evaluation method. The data were collected using a Natural-Background-Rejection (NBR) probe integrated into CBRN reconnaissance vehicles. These vehicles enable GPS-supported, continuous measurements, with data stored in a MySQL database and processed with JavaScript programs. Subsequently, the data were statistically analyzed and visualized in a Geographic Information System (GIS). Two main methods were applied: overlay and buffering, as well as interpolation using the Kriging method. The goal was to identify spatial trends and provide the most accurate area-wide estimation of radiation levels.
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View report](pdf\lka_portfolio.pdf)
 
 [![](https://img.shields.io/badge/JavaScript-green?logo=JavaScript)](#)
 [![](https://img.shields.io/badge/MySQL-green?logo=MySQL)](#)
