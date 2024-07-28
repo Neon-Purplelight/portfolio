@@ -46,7 +46,7 @@ The project examined to what extent training data could be semi-automatically ge
 
 [View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 [View code on Colab](https://colab.research.google.com/drive/1t5nw2X8hn6tLwsCVi58pjW2TwznfbWXj#scrollTo=aQnoc3FkhJc3)
-[View Notebook](notebooks/slim_base_version.ipynb)
+[View Notebook](https://colab.research.google.com/drive/1VUIkrF_e26bZ9BAlqVNXw3WNBVVfsP7r)
 
 
 [![](https://img.shields.io/badge/Anaconda-green?logo=Anaconda)](#)
