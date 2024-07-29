@@ -20,23 +20,6 @@ The project explores the potential of interactive dashboards to convey the compl
 [![](https://img.shields.io/badge/CSS-green?logo=CSS3)](#) 
 [![](https://img.shields.io/badge/HTML-green?logo=HTML5)](#)
 
-
----
-### Development of measurement technology for determining concrete cover, electrolytic concrete resistance, and potential field using an autonomous measurement platform
-
-<img src="images/betoscan_thumbnail.jpg?raw=true"/>
-
-The aim of the project was the development of an automated, non-destructive measurement system for detecting reinforcement steel corrosion. An established method for detecting corrosion probabilities is the quasi-non-destructive method of potential field measurement. As a previously little-researched, completely non-destructive variant of potential field measurement, this work focuses on differential potential field measurement. The differential potential field measurement is a probabilistic approach, whose significance can be increased by combining various measurement systems. Therefore, systems for recording the electrolytic concrete resistance and the concrete cover were also included in the work as important parameters regarding the interpretation of differential potential field measurements.
-
-[View report](pdf/EMBBBPM.pdf)
-
-[![](https://img.shields.io/badge/LabVIEW-green?logo=LabVIEW)](#) 
-[![](https://img.shields.io/badge/NI-DAQmx-green?logo=NI-DAQmx)](#) 
-[![](https://img.shields.io/badge/NI-VISA-green?logo=NI-VISA)](#) 
-[![](https://img.shields.io/badge/DAQ-green?logo=DAQ)](#) 
-[![](https://img.shields.io/badge/MATLAB-green?logo=MATLAB)](#) 
-[![](https://img.shields.io/badge/Git-green?logo=Git)](#) 
-
 ---
 ### Automated Generation of Training Datasets for the Classification of Roads in Satellite Data Using a Convolutional Neural Network
 
@@ -68,6 +51,21 @@ The project addresses the impact of exogenous processes and urban components on 
 [![](https://img.shields.io/badge/R-green?logo=R)](#)
 [![](https://img.shields.io/badge/ArcGIS-green?logo=ArcGIS)](#)
 
+---
+### Development of measurement technology for determining concrete cover, electrolytic concrete resistance, and potential field using an autonomous measurement platform
+
+<img src="images/betoscan_thumbnail.jpg?raw=true"/>
+
+The aim of the project was the development of an automated, non-destructive measurement system for detecting reinforcement steel corrosion. An established method for detecting corrosion probabilities is the quasi-non-destructive method of potential field measurement. As a previously little-researched, completely non-destructive variant of potential field measurement, this work focuses on differential potential field measurement. The differential potential field measurement is a probabilistic approach, whose significance can be increased by combining various measurement systems. Therefore, systems for recording the electrolytic concrete resistance and the concrete cover were also included in the work as important parameters regarding the interpretation of differential potential field measurements.
+
+[View report](pdf/EMBBBPM.pdf)
+
+[![](https://img.shields.io/badge/LabVIEW-green?logo=LabVIEW)](#) 
+[![](https://img.shields.io/badge/NI-DAQmx-green?logo=NI-DAQmx)](#) 
+[![](https://img.shields.io/badge/NI-VISA-green?logo=NI-VISA)](#) 
+[![](https://img.shields.io/badge/DAQ-green?logo=DAQ)](#) 
+[![](https://img.shields.io/badge/MATLAB-green?logo=MATLAB)](#) 
+[![](https://img.shields.io/badge/Git-green?logo=Git)](#) 
 ---
 ---
 
